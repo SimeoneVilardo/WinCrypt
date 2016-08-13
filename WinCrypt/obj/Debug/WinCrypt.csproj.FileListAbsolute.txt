@@ -1,0 +1,8 @@
+c:\users\simeone\documents\visual studio 2015\Projects\WinCrypt\WinCrypt\bin\Debug\WinCrypt.exe.config
+c:\users\simeone\documents\visual studio 2015\Projects\WinCrypt\WinCrypt\bin\Debug\WinCrypt.exe
+c:\users\simeone\documents\visual studio 2015\Projects\WinCrypt\WinCrypt\bin\Debug\WinCrypt.pdb
+c:\users\simeone\documents\visual studio 2015\Projects\WinCrypt\WinCrypt\obj\Debug\WinCrypt.exe
+c:\users\simeone\documents\visual studio 2015\Projects\WinCrypt\WinCrypt\obj\Debug\WinCrypt.pdb
+C:\Users\Simeone\Documents\WinCrypt\WinCrypt\bin\Debug\WinCrypt.exe.config
+C:\Users\Simeone\Documents\WinCrypt\WinCrypt\obj\Debug\WinCrypt.exe
+C:\Users\Simeone\Documents\WinCrypt\WinCrypt\obj\Debug\WinCrypt.pdb
