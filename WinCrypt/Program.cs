@@ -23,8 +23,8 @@ namespace WinCrypt
       if (string.IsNullOrWhiteSpace(path))
       {
         Console.Write("Inserisci il percorso del file: ");
-        path = Console.ReadLine();
-      }
+        path = Console.ReadLine().Replace("\"", "");
+            }
       if (string.IsNullOrWhiteSpace(password))
       {
         Console.Write("Inserisci la password: ");
@@ -38,7 +38,7 @@ namespace WinCrypt
 
       if (args.Length == 1)
       {
-        path = args[0];
+        path = args[0].Replace("\"", "");
         if (path.EndsWith(".crypt"))
         {
           command = 2;
@@ -46,7 +46,7 @@ namespace WinCrypt
       }
       else if (args.Length == 2)
       {
-        path = args[0];
+        path = args[0].Replace("\"", "");
         password = args[1];
       }
 
